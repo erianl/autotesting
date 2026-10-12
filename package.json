@@ -1,0 +1,12 @@
+{
+  "name": "autotesting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
